@@ -25,3 +25,7 @@
 7. 按题目要求连接所有拓扑，并开启设备
 8. Tools$\to$Import/Export Node Configs 保存配置文件
 
+## Step 2-5
+
+- 有时候第一次评测就是无法通过，重新write一遍再保存一遍就能过了
+- 善用`show ip int b`和`show vlan-switch`检查
